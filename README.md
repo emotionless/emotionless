@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://linkedin.com/in/emotionless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emotionless" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/10829805/faruk-hossain" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="faruk-hossain" height="30" width="40" /></a>
 </p>
   
