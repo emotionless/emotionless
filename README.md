@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Let us connect with:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/emotionless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emotionless" height="30" width="40" /></a>
+<a href="https://www.facebook.com/emotionless.milon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emotionless.milon" height="30" width="40" /></a>
+</p>
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=emotionless&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emotionless&langs_count=5&theme=tokyonight)](
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emotionless&label=Profile%20views&color=0e75b6&style=flat" alt="emotionless" /> </p>
