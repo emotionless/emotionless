@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">Let us connect with:</h3>
 <a href="https://linkedin.com/in/emotionless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emotionless" height="30" width="40" /></a>
 
+</br>
+</br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emotionless&label=Profile%20views&color=0e75b6&style=flat" alt="emotionless" /> </p>
