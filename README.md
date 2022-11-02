@@ -1,4 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=emotionless&count_private=true&theme=tokyonight&showicons=true)
+(https://github-readme-stats.vercel.app/api/?username=emotionless&count_private=true&theme=tokyonight&showicons=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emotionless&langs_count=5&theme=tokyonight)
 
 <h3 align="left">Let us connect with:</h3>
