@@ -15,12 +15,13 @@
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=java,py,regex,github,git,mongodb,mysql,eclipse,java,spring,jenkins,c,cpp,cs,dotnet,html,css,androidstudio,notion,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,regex,github,git,mysql,spring,c,cpp,swift)](https://skillicons.dev)
 
 ### Cloud skills
 [![Cloud Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-
+### Github Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emotionless&custom_title=Faruk%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true%22%20alt=%22GitHub%20Activity%20Graph%22" />
 
 
 <h3 align="left">Let us connect with:</h3>
