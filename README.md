@@ -1,4 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Faruk+Hossain;Experienced+Software+Engineer" alt="Experienced Software Engineer"/>
+</a>
 <div>
   <a href="https://github.com/emotionless">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emotionless&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,6 +14,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=emotionless&row=2&column=3&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emotionless&theme=dark" />
 </div>
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=java,py,regex,github,git,mongodb,mysql,eclipse,java,spring,jenkins,c,cpp,cs,dotnet,html,css,androidstudio,notion,swift)](https://skillicons.dev)
+
+### Cloud skills
+[![Cloud Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+
 
 
 <h3 align="left">Let us connect with:</h3>
