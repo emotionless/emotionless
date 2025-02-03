@@ -7,12 +7,12 @@
  </div>
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=emotionless&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emotionless&row=2&column=3&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emotionless&theme=dark" />
 </div>
 
 <div>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=emotionless&theme=light&border=border&animated=true" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=emotionless&theme=dark&filter=submission&border=border&animated=true" />
 </div>
 
 <h3 align="left">Let us connect with:</h3>
