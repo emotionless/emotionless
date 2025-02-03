@@ -11,9 +11,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emotionless&theme=dark" />
 </div>
 
-<div>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=emotionless&theme=dark&filter=submission&border=border&animated=true" />
-</div>
 
 <h3 align="left">Let us connect with:</h3>
 
