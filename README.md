@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/emotionless">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emotionless&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emotionless&layout=compact&langs_count=20&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emotionless&layout=compact&langs_count=10&theme=dark"/>
   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emotionless&layout=compact&langs_count=10&theme=dark"/> -->
  </div>
 
