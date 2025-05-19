@@ -33,7 +33,7 @@ https://stackoverflow.com/users/10829805/faruk-hossain
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=emotionless&custom_title=Faruk%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true%22%20alt=%22GitHub%20Activity%20Graph%22" />
 
 
-<h3 align="left">Let us connect with:</h3>
+<h3 align="left">Let's connect with:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/emotionless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emotionless" height="30" width="40" /></a>
